@@ -25,6 +25,11 @@ To obtain user behavior and track product utilization at the user end and, based
 - ⬜️ Application creation
 - ⬜️ Data display in Chart mode
 - ⬜️ User behavior recovery based on Timeline
+- ⬜️ Real-time display
+- ⬜️ Market summary
+- ⬜️ Performance analysis
+- ⬜️ Error localization
+- ⬜️ Link tracking
 
 ## README
 - en [English](README.md)
